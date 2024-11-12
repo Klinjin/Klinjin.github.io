@@ -18,7 +18,7 @@ nav_order: 3
 </div>
 
 ---
-
+{% endif %}
 {% if site.data.repositories.github_repos %}
 
 ## GitHub Repositories
