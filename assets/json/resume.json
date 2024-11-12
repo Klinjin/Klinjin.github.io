@@ -29,7 +29,7 @@
       "startDate": "2024-09-01",
       "endDate": "now",
       "summary": "Developing generative models for baryonification of dark matter field from weak lensing data.",
-      "highlights": ["Weak lensing", "hydrodynamical simulations", "CNN", "Diffusion Model"]
+      "highlights": ["Weak lensing", "hydrodynamical simulations", "CNN", "Conditional diffusion model", "Simulation-based inference"]
     },
     {
       "name": "ENIGMA Group, UCSB",
@@ -37,8 +37,8 @@
       "url": "https://enigma-igm.github.io/",
       "startDate": "2022-04-01",
       "endDate": "2024-09-01",
-      "summary": "Developing generative models for baryonification of dark matter field from weak lensing data.",
-      "highlights": ["Intergalactic medium", "Reionization", "emulator", "NN"]
+      "summary": "Extracting the thermal history of the intergalactic medium during post-reionization from Lyman-α forest autocorrelation function.",
+      "highlights": ["Intergalactic medium", "Reionization", "emulator", "NN", "Bayesian inference", "Error propagation"]
     }
   ],
 
@@ -82,6 +82,43 @@
       "releaseDate": "Under review",
       "url": "https://ui.adsabs.harvard.edu/abs/2024arXiv241006505J/abstract",
       "summary": "A MLP emulator for Ly-α forest to accelerate the inference of IGM's thermal revolution during redshift 5.4 to 6.0."
+    }
+  ],
+  "talks": [
+    {
+      "name": "Prof.Nick Gnedin Group Meeting Presentation",
+      "date": "2024-11-01",
+      "issuer": "University of Chicago",
+      "url": "https://astro.uchicago.edu/people/nickolay-y-gnedin.php",
+      "icon": "fa-solid fa-location-dot"
+    },
+    {
+      "name": "Berkeley Cosmology Group Journal Club",
+      "date": "2024-10-01",
+      "issuer": "UC, Berkeley",
+      "url": "https://cosmology.lbl.gov/directory.html",
+      "icon": "fa-solid fa-tag"
+    },
+    {
+      "name": "Worster Summer Research Fellowship Final Report",
+      "date": "2023-11-01",
+      "issuer": "UC Santa Barbara",
+      "url": "https://www.physics.ucsb.edu/education/undergrad/research/worster",
+      "icon": "fa-solid fa-envelope"
+    },
+    {
+      "name": " Conference for Undergraduate Women in Physics",
+      "date": "2023-01-01",
+      "issuer": "UC Merced",
+      "url": "https://sites.ucmerced.edu/files/cuwip/files/poster_abstract_book.pdf",
+      "icon": "fa-solid fa-calendar"
+    },
+    {
+      "name": "Undergraduate Physics Research Symposium",
+      "date": "2022-09-01",
+      "issuer": "KITP",
+      "url": "https://online.kitp.ucsb.edu/online/undergrad22/",
+      "icon": "fa-solid fa-hashtag"
     }
   ],
   "skills": [
