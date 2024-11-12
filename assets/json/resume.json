@@ -17,7 +17,7 @@
       "startDate": "2020-08-01",
       "endDate": "2023-12-01",
       "score": "10",
-      "courses": ["High Honors", "Worster research fellowhsip 2023","Dean's Honor"]
+      "courses": ["High Honors", "Worster research fellowhsip 2023", "Dean's Honor"]
     }
   ],
 
@@ -96,18 +96,13 @@
         "Electromagnetism",
         "Advanced Experimental Physics",
         "Analog Electronics"
-
       ]
     },
     {
       "name": "Graduate-level courses",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Cosmology",
-        "Stellar Evolution",
-        "Statistics, Data Analysis, and Machine Learning for Physicis"
-      ]
+      "keywords": ["Cosmology", "Stellar Evolution", "Statistics, Data Analysis, and Machine Learning for Physicis"]
     },
     {
       "name": "Data Science",
@@ -115,7 +110,10 @@
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "Python, MATLAB, Fortran",
-        "JAX", "Pytorch", "Tensorflow", "Optuna",
+        "JAX",
+        "Pytorch",
+        "Tensorflow",
+        "Optuna",
         "GitHub",
         "PyCharm, VScode",
         "Z Shell",
@@ -127,15 +125,7 @@
       "name": "Office",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Latex",
-        "Graphic design",
-        "Business email",
-        "Video editing",
-        "Proposal writing",
-        "Presentation",
-        "Event Execution"
-      ]
+      "keywords": ["Latex", "Graphic design", "Business email", "Video editing", "Proposal writing", "Presentation", "Event Execution"]
     }
   ],
   "languages": [
