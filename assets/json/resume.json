@@ -20,6 +20,7 @@
       "courses": ["High Honors", "Worster research fellowhsip 2023","Dean's Honor"]
     }
   ],
+  
   "experience": [
     {
       "name": "The Berkeley Center for Cosmology Physics, UC Berkeley",
@@ -40,6 +41,7 @@
       "highlights": ["Intergalactic medium", "Reionization", "emulator", "NN"]
     }
   ],
+
   "extracurricular": [
     {
       "organization": "College of Letters & Science Academic Advising",
@@ -163,6 +165,16 @@
       "name": "Professor Lars Bildsten",
       "icon": "fa-solid fa-thumbtack",
       "reference": "UC Santa Barbara, Kavli Institute for Theoretical Physics"
+    },
+    {
+      "name": "Professor Tengiz Bibilashvili",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "UC Santa Barbara"
+    },
+    {
+      "name": "Professor Teja Nerella",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "UC Santa Barbara"
     }
   ]
 }
