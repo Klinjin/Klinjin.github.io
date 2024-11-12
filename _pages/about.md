@@ -2,24 +2,24 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Data Analyst at <a href='https://cosmology.lbl.gov/directory.html'>BCCP</a>. Previously  <a href='https://www.ucsb.edu/'>Gaucho</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Campbell Hall 341</p>
+    <p>University of California, Berkeley</p>
+    <p>CA 94720</p>
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, welcome to my site! As an aspiring researcher in Astrophysics, I harness the power of AI/machine learning to drive new insights into the universe's evolution. With a solid foundation in computational and mathematical engineering, I focus on applying advanced algorithms to real-world problems, from scientific research to innovative industry solutions. After graduating with a Physics B.S. degree with comparative literature minor at UC Santa Barbara, I worked in Prof. Joe Hennawi's [Enigma research group](https://enigma-igm.github.io) with my graduate mentor Molly Wolfson. I started a researcher position at UC Berkeley working with Prof. Uros Seljak. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Research interests: intergalactic medium, weak lensing, bayesian inference, generative models, uncertainty quantification, optimization tools
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Extracurriculum: painting, story-telling, writing, social media, lifting, event hosting
