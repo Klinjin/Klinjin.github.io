@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://linda-jin.github.io/sitemap.xml
+Sitemap: https://Klinjin.github.io/sitemap.xml
