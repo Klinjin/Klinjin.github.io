@@ -18,8 +18,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi, welcome to my site! As an aspiring researcher in Astrophysics, I harness the power of AI/machine learning to drive new insights into the universe's evolution. With a solid foundation in computational and mathematical engineering, I focus on applying advanced algorithms to real-world problems, from scientific research to innovative industry solutions. After graduating with a Physics B.S. degree with comparative literature minor at UC Santa Barbara, I worked in Prof. Joe Hennawi's [Enigma research group](https://enigma-igm.github.io) with my graduate mentor Molly Wolfson. I started a researcher position at UC Berkeley working with Prof. Uros Seljak. 
+Hi, welcome to my site!  As a young researcher in Astrophysics with more than two years experience, I harness the power of AI/machine learning to drive new insights into the universe's evolution. I focus on applying large-scale machine learning, high-dimensional optimization, and physics-informed generation algorithms to real-world/universe problems, from scientific research to potentially innovative industry solutions. I'm currently a data analuysis researcher at UC Berkeley, working with Prof. Uros Seljak to work at the intersection of machine learning and cosmology. After graduating with a Physics B.S. degree with comparative literature minor at UC Santa Barbara, I worked in Prof. Joe Hennawi's [Enigma research group](https://enigma-igm.github.io) with my graduate mentor Molly Wolfson. Details of the projects can be found in the 'cv' page.
 
-Research interests: intergalactic medium, weak lensing, bayesian inference, generative models, uncertainty quantification, optimization tools
+Research interests: neural networks, bayesian inference, generative models, uncertainty quantification, optimization tools, hydrodynamical simulation, intergalactic medium, weak lensing, galaxy clustering
 
-Extracurriculum: painting, story-telling, writing, social media, lifting, event hosting
+Extracurriculum: arts, poetry, existentialism literature, lifting, event hosting, social media
