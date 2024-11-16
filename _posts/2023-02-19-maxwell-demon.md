@@ -9,7 +9,7 @@ citation: true
 ---
 
 {% highlight %}
-Thomas Pynchon’s *The Crying of Lot 49*<d-cite key="pynchon"></d-cite> and Ken Kesey’s *Demon Box*<d-cite key="kesey"></d-cite> both explore the Second Law of Thermodynamics<d-cite key="maxwell"></d-cite> and its accompanying thought experiment of a demon sorting out fast and slow particles at the divider in a box. This notion of Maxwell’s Demon however implies distinct social and personal meanings in each work but both influence the protagonists' perceptions of reality. In this paper, I will explore the implicit meanings behind the Demon and how they are manifested in terms of the psychological evolution of the two characters.
+Thomas Pynchon’s _The Crying of Lot 49_<d-cite key="pynchon"></d-cite> and Ken Kesey’s _Demon Box_<d-cite key="kesey"></d-cite> both explore the Second Law of Thermodynamics<d-cite key="maxwell"></d-cite> and its accompanying thought experiment of a demon sorting out fast and slow particles at the divider in a box. This notion of Maxwell’s Demon however implies distinct social and personal meanings in each work but both influence the protagonists' perceptions of reality. In this paper, I will explore the implicit meanings behind the Demon and how they are manifested in terms of the psychological evolution of the two characters.
 {% endhighlight %}
 
 ## The Demon
@@ -138,4 +138,3 @@ challenged, and none escaped this irreversible process of death that dwelled in 
 single cell of everything. However, we should still appreciate the present and the people
 around us instead of getting too attached and enchanted to the two-sided closed box, as
 learned from Devlin’s guilt and Oedipa’s paranoia.
-
