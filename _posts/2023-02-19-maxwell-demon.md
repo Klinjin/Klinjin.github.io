@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: distill
 title: Implications of Maxwell’s Demon in Pynchon and Kesey's books
 date: 2023-02-19 16:00:00
 description: How the realities of Oedipa and Devlin are challenged by the Demon
@@ -9,9 +9,9 @@ citation: true
 bibliography: "2023-02-19-maxwell-demon.bib"
 ---
 
-```
-Thomas Pynchon’s The Crying of Lot 49 [1, @pynchon] and Ken Kesey’s Demon Box [2, @kesey] both explore the Second Law of Thermodynamics [3, @maxwell] and its accompanying thought experiment of a demon sorting out fast and slow particles at the divider in a box. This notion of Maxwell’s Demon however implies distinct social and personal meanings in each work but both influence the protagonists' perceptions of reality. In this paper, I will explore the implicit meanings behind the Demon and how they are manifested in terms of the psychological evolution of the two characters.
-```
+{% highlight %}
+Thomas Pynchon’s The Crying of Lot 49 <d-cite key="pynchon"></d-cite> and Ken Kesey’s Demon Box <d-cite key="kesey"></d-cite> both explore the Second Law of Thermodynamics <d-cite key="maxwell"></d-cite> and its accompanying thought experiment of a demon sorting out fast and slow particles at the divider in a box. This notion of Maxwell’s Demon however implies distinct social and personal meanings in each work but both influence the protagonists' perceptions of reality. In this paper, I will explore the implicit meanings behind the Demon and how they are manifested in terms of the psychological evolution of the two characters.
+{% endhighlight %}
 
 ## The Demon
 
