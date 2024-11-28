@@ -3,7 +3,7 @@ layout: distill
 title: Maxwell’s Demon in Pynchon and Kesey's books
 date: 2023-02-19 16:00:00
 description: How the realities of Oedipa and Devlin are challenged by the Demon
-tags: maxwell-demon clit
+tags: clit&sci
 categories: literature
 citation: true
 bibliography: 2023-02-19-maxwell-demon.bib
