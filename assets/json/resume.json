@@ -79,7 +79,7 @@
     {
       "name": "Neural network emulator to constrain the high-z IGM thermal state from Lyman-α forest flux auto-correlation function.",
       "publisher": "MNRAS",
-      "releaseDate": "Under review",
+      "releaseDate": "Accepted in Nov, 2024",
       "url": "https://ui.adsabs.harvard.edu/abs/2024arXiv241006505J/abstract",
       "summary": "A MLP emulator for Ly-α forest to accelerate the inference of IGM's thermal revolution during redshift 5.4 to 6.0."
     }
