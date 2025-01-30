@@ -5,6 +5,7 @@ date: 2023-02-19 16:00:00
 description: How the realities of Oedipa and Devlin are challenged by the Demon
 tags: clit&sci
 categories: literature
+featured: true
 citation: true
 bibliography: 2023-02-19-maxwell-demon.bib
 ---
@@ -44,7 +45,6 @@ delics!” (Kesey 362). Devlin peeked into these two sides of the box in the sce
 Disney land. One side is this father of the poor family who cannot afford another ride for
 the kids. Despite that we only see him from the back, the body gestures — “sat without
 comment, not moving, ... , gripping the back of the seat” — shows his uneasiness as a
-
 working-class dad. Devlin realized the situation of the father and pitied him with the
 knowledge of the Demon who as well tries hard to “keep a grip” and yet it's “getting
 harder all the time”. Devlin had a topdown view in the scene and thought “something
@@ -116,7 +116,6 @@ Devlin, too, was hit by the Demon’s conviction for breaking the rule of revers
 entropy. He, on contrary, was dragged down to the ground and faced the reality that he
 was a terrible father, son, and friend (Kesey 369). A sense of guilt occupied him in the
 last scene when he realized he forgot to bring anything from Disney for his son as he
-
 promised and he didn’t call his mother: “It only clarified the fearful murk that had been
 nagging me into something far more haunting: guilt.” (Kesey 369) This nagging feeling
 corresponds to the previous “curious feeling” (Kesey 339). This conversion from

@@ -28,7 +28,7 @@
       "url": "https://bccp.berkeley.edu/",
       "startDate": "2024-09-01",
       "endDate": "now",
-      "summary": "Developing generative models for baryonification of dark matter field from weak lensing data.",
+      "summary": "Developing generative model for baryonification of dark matter field for weak lensing inference.",
       "highlights": ["Weak lensing", "hydrodynamical simulations", "CNN", "Conditional diffusion model", "Simulation-based inference"]
     },
     {
@@ -79,8 +79,8 @@
     {
       "name": "Neural network emulator to constrain the high-z IGM thermal state from Lyman-α forest flux auto-correlation function.",
       "publisher": "MNRAS",
-      "releaseDate": "Accepted in Nov, 2024",
-      "url": "https://ui.adsabs.harvard.edu/abs/2024arXiv241006505J/abstract",
+      "releaseDate": "January 2025",
+      "url": "https://academic.oup.com/mnras/article/536/3/2277/7923533",
       "summary": "A MLP emulator for Ly-α forest to accelerate the inference of IGM's thermal revolution during redshift 5.4 to 6.0."
     }
   ],
