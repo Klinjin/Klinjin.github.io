@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 
 _Hi, welcome to my site!_ As a young researcher in Astrophysics🌟 with more than two years research experience, I harness the power of AI🤖/machine learning to drive new insights into the universe's evolution. I focus on applying large-scale data surrogation, high-dimensional optimization, and physics-informed generation algorithms to real-world(universe) problems, from scientific research to potentially innovative industry solutions.  
  📍I will be attending University of Washington, Seattle in the upcoming fall for Physics PhD!
-📍I'm currently a data analyst at [UC Berkeley](https://bccp.berkeley.edu/), hired by Prof. Uros Seljak to work at the intersection of machine learning, simulations and cosmology.  
+ 📍I'm currently a data analyst at [UC Berkeley](https://bccp.berkeley.edu/), hired by Prof. Uros Seljak to work at the intersection of machine learning, simulations and cosmology.  
  📍After graduating with a Physics B.S. degree with comparative literature minor at UC Santa Barbara, I worked in Prof. Joe Hennawi's [Enigma research group](https://enigma-igm.github.io) with my graduate mentor Dr. Molly Wolfson on an emulator for intergalactic medium.
 
 Details of the projects can be found on the [projects page](https://klinjin.github.io/projects/)
