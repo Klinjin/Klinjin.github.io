@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Data Analyst at <a href='https://cosmology.lbl.gov/directory.html'>BCCP</a>. Previously  <a href='https://www.ucsb.edu/'>Gaucho</a>.
+subtitle: Physics PhD at <a href='https://dirac.astro.washington.edu/'>UW DiRAC</a>. Previously <a href='https://www.ucsb.edu/'>Gaucho</a>.
 
 profile:
   align: right
@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>PAB B237</p>
     <p>University of Washington, Seattle</p>
-    <p>CA 94720</p>
+    <p>WA 98195</p>
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -28,7 +28,7 @@ I'm a young researcher in **Astrophysics** 🌟 with more than two years of rese
 
 ### 🎓 Current & Recent Positions
 
-- 📍 **Ph.D. Student** — Physics Ph.D. program at **University of Washington, Seattle** (Starting Fall 2025)
+- 📍 **Ph.D. Student** — Physics Ph.D. program at **University of Washington, Seattle**, working with Prof. Andrew Connolly on robust estimation for high-redshift galaxies at [DiRAC](https://dirac.astro.washington.edu/)
 - 📍 **Data Analyst** — [UC Berkeley BCCP](https://bccp.berkeley.edu/), working with Prof. Uros Seljak at the intersection of machine learning, simulations, and cosmology
 - 📍 **Research Assistant** — Prof. Joe Hennawi's [Enigma research group](https://enigma-igm.github.io) at UC Santa Barbara, with graduate mentor Dr. Molly Wolfson on an emulator for the intergalactic medium
 - 📍 **B.S. in Physics** (with Comparative Literature minor) — UC Santa Barbara
