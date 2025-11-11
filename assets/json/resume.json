@@ -3,11 +3,22 @@
     "name": "Linda Jin",
     "label": "Astrophysics ML researcher",
     "image": "",
-  "email": "lindajin@uw.edu",
+    "email": "lindajin@uw.edu",
     "phone": "(805) 689-0486",
     "url": "https://klinjin.github.io/"
   },
   "education": [
+    {
+      "institution": "University of Washington",
+      "location": "Seattle, WA",
+      "url": "https://www.physics.uw.edu/",
+      "area": "Physics",
+      "studyType": "Ph.D.",
+      "startDate": "2025-09-01",
+      "endDate": "now",
+      "score": "N/A",
+      "courses": ["Teaching Assistant for Physics Advanced Laboratory: Computational Data Analysis (2025 Fall)"]
+    },
     {
       "institution": "University of California, Santa Barbara",
       "location": "Santa Barbara, CA",
@@ -17,17 +28,26 @@
       "startDate": "2020-08-01",
       "endDate": "2023-12-01",
       "score": "10",
-      "courses": ["High Honors", "Worster research fellowhsip 2023", "Dean's Honor"]
+      "courses": ["High Honors", "Worster research fellowship 2023", "Dean's Honor"]
     }
   ],
 
   "experience": [
     {
+      "name": "DiRAC Institute, UW",
+      "position": "PhD research assistant",
+      "url": "https://dirac.astro.washington.edu/",
+      "startDate": "2026-01-01",
+      "endDate": "now",
+      "summary": "Building robust algorithms for inferencing dark energy evolution from LSST and Rubin data",
+      "highlights": ["Normalizing flows", "Uncertainty quantification", "Clustering", "Lyman-breaking galaxies", "photometric redshift"]
+    },
+    {
       "name": "The Berkeley Center for Cosmology Physics, UC Berkeley",
       "position": "Post-bac researcher",
       "url": "https://bccp.berkeley.edu/",
       "startDate": "2024-09-01",
-      "endDate": "now",
+      "endDate": "2025-08-01",
       "summary": "Developing generative model for baryonification of dark matter field for weak lensing inference.",
       "highlights": ["Weak lensing", "hydrodynamical simulations", "CNN", "Conditional diffusion model", "Simulation-based inference"]
     },
